@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Student Profile Manager</string>
+    <string name="profile_title">Hồ sơ sinh viên</string>
+    <string name="profile_subtitle">Quản lý và cập nhật thông tin cá nhân</string>
+    <string name="avatar_description">Ảnh đại diện sinh viên</string>
+    <string name="student_id_value">MSSV: %1$s</string>
+    <string name="class_value">Lớp: %1$s</string>
+    <string name="gpa_value">GPA: %1$.2f / 4.00</string>
+    <string name="edit_profile">Chỉnh sửa hồ sơ</string>
+    <string name="change_avatar">Đổi ảnh đại diện</string>
+    <string name="call_hotline">Gọi cố vấn</string>
+    <string name="request_camera">Quyền Camera</string>
+    <string name="lifecycle_hint">Mở Logcat và lọc TAG_LIFECYCLE để quan sát vòng đời Activity</string>
+    <string name="edit_title">Chỉnh sửa thông tin</string>
+    <string name="edit_description">Cập nhật thông tin bên dưới. MSSV được giữ cố định.</string>
+    <string name="name_hint">Họ và tên</string>
+    <string name="student_id_hint">Mã số sinh viên</string>
+    <string name="class_hint">Lớp sinh hoạt</string>
+    <string name="gpa_hint">Điểm GPA</string>
+    <string name="gpa_helper">Nhập điểm trong khoảng 0.0 đến 4.0</string>
+    <string name="save_changes">Lưu và phản hồi</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="error_name">Vui lòng nhập họ và tên</string>
+    <string name="error_class">Vui lòng nhập lớp</string>
+    <string name="error_gpa">GPA phải nằm trong khoảng 0.0–4.0</string>
+    <string name="profile_updated">Đã cập nhật hồ sơ thành công</string>
+    <string name="avatar_updated">Đã thay đổi ảnh đại diện</string>
+    <string name="camera_permission_granted">Đã cấp quyền Camera</string>
+    <string name="camera_permission_denied">Bạn đã từ chối quyền Camera</string>
+    <string name="camera_already_granted">Quyền Camera đã được cấp trước đó</string>
+    <string name="no_dialer">Không tìm thấy ứng dụng gọi điện</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.BT" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#9DBBFF</item>
+        <item name="colorPrimaryContainer">#183E83</item>
+        <item name="colorOnPrimary">#092A65</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
